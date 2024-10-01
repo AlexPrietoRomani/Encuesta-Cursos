@@ -1,0 +1,7 @@
+Creación del entorno virtual: python -m venv mi_entorno
+
+Activar mi entorno virtual: .venv\Scripts\activate
+
+Ejecutar streamlit: streamlit run Encuesta/encuesta_app.py
+
+Ejecutar streamlit: streamlit run Encuesta/encuesta_app.py
